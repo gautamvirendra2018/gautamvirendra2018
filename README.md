@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Virendra Kumar Gautam
 - 👀 I’m interested in Machine Learning, AI, and Data analysis
 - 🌱 I’m currently learning how to meet real world problems associated with ITS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ And now, about to start working on monitoring system
 - 📫 How to reach me : gautamvirendra2018@gmail.com, +919957961506
 
 <!---
