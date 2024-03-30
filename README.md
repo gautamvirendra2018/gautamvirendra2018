@@ -1,4 +1,4 @@
-![logo] https://github.com/gautamvirendra2018/gautamvirendra2018/blob/main/computerscience.png
+![logo](https://github.com/gautamvirendra2018/gautamvirendra2018/blob/main/computerscience.png)
 <h1 align="center">Hi 👋, I'm Virendra Kumar Gautam</h1>
 <h3 align="center">A passionate software engineer, and researcher from India</h3>
 <img align="right" alt="coding" width="400" src = "https://i.ytimg.com/vi/yP2FZNP6eZk/maxresdefault.jpg">
